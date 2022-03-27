@@ -1,15 +1,3 @@
-# Basic Sample Hardhat Project
+# FlashArbitrage - Get the most out of 'Flashloans' and 'Arbitrage'
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Even though there are lot of bots available for arbitrage trading in market , people having less knowledge of pragramming and automation of smart contracts have always difficulties to use their arbitrage logic using that bots or programms ,.Here we have designed a simple interface through which any one having good arbitrage logic can run their scripts and also taking flashloans and then run their arbitrage logic would be much easier , Also can calculate possible profit with our interface and automate smart contract according to the profit getting at a perticular time.
